@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="47664" started-at="2018-12-13T18:21:34Z" finished-at="2018-12-13T18:22:22Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="47664" started-at="2018-12-13T18:21:34Z" finished-at="2018-12-13T18:22:22Z">
+      <class name="com.test.testcases.Createuser">
+        <test-method status="PASS" signature="openapp()[pri:0, instance:com.test.testcases.Createuser@1060b431]" name="openapp" is-config="true" duration-ms="23044" started-at="2018-12-13T18:21:35Z" finished-at="2018-12-13T18:21:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openapp -->
+        <test-method status="PASS" signature="Testcreateuser(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.test.testcases.Createuser@1060b431]" name="Testcreateuser" duration-ms="23550" started-at="2018-12-13T18:21:58Z" data-provider="register" finished-at="2018-12-13T18:22:22Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1.0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Dixitshettigar93@gmail.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[manju]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[sarathi]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[thejas9345@gmail.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[12345.0]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[135/05/93]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[kkk]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[llll]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[Pragathi]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[Navrang]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[Banglore]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[Indian]]>
+              </value>
+            </param>
+            <param index="13">
+              <value>
+                <![CDATA[575035.0]]>
+              </value>
+            </param>
+            <param index="14">
+              <value>
+                <![CDATA[United States]]>
+              </value>
+            </param>
+            <param index="15">
+              <value>
+                <![CDATA[Intership on Testing]]>
+              </value>
+            </param>
+            <param index="16">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="17">
+              <value>
+                <![CDATA[8.68191137E8]]>
+              </value>
+            </param>
+            <param index="18">
+              <value>
+                <![CDATA[Intership]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Testcreateuser -->
+      </class> <!-- com.test.testcases.Createuser -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
